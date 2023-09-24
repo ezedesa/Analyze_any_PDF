@@ -1,7 +1,7 @@
 # pdf_calc
 #word counter + tkinter
 
-![image program](pdf_test.jpg)
+![image program](pdf_test.jpeg)
 ![image program](pdf_test2.jpg)
 
 
