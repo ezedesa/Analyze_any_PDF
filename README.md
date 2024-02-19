@@ -12,7 +12,7 @@
     Minimum length
     Number of words to list
 
-#Click on "PROCESS"
+#Click on "PROCESAR"
 
 #The program will list and count the number of times words of the defined length are repeated.
 
