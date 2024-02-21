@@ -1,5 +1,4 @@
-# pdf_calc
-#word counter + tkinter
+# Desktop application for Windows, basic interface, counts the most used words that meet certain filters
 
 ![image program](pdf_test.jpeg)
 ![image program](pdf_test2.jpg)
