@@ -1,4 +1,4 @@
-# Desktop application for Windows, basic interface, counts the most used words that meet certain filters
+# Desktop application for Windows.
 
 ![image program](pdf_test.jpeg)
 ![image program](pdf_test2.jpg)
